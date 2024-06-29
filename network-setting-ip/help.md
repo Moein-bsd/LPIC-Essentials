@@ -40,5 +40,10 @@ Notice That After modifying config file Run :
 uuidgen [New Network card] >> ifcfg-[New Network card]
 for example: uuidgen enp0s8 >> ifcfg-enp0s8
 
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+ip a  = ifconfig
+
+ip r   = route -n
 
 
