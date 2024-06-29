@@ -6,6 +6,7 @@ Go to the Directory
 Use [this file](00-installer-config-DHCP-Network-Type-ubuntu+16.yaml)
 
 Notice That After modifying config file Run :
+
 ```netplan apply```
 
 
