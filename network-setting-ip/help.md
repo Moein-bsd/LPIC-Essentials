@@ -29,7 +29,7 @@ Go to the Directory
 
 Open ``` ifcfg-e-* ``` via  vi
 
-Use [this file](interfaces)
+Use [this file](ifcfg-ens33)
 
 Notice That After modifying config file Run :
 
