@@ -14,7 +14,7 @@ Go to the Directory
 ``` /etc/network/ ```
 Open ``` interfaces ``` via nano or vi
 
-Use [this file]()
+Use [this file](interfaces)
 
 Notice That After modifying config file Run :
 ```systemctl restart networking```
